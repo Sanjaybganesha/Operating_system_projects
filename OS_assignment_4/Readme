@@ -1,0 +1,15 @@
+Student name: SANJAY BETTADAPURA GANESHA
+Bnumber:B00816568
+producer and consumer problem using pipline
+Execution steps:
+step1: make all
+step2: sudo insmod linepipe.ko 
+step3: gcc -o prod producer.c
+step4: sudo ./prod /dev/linepipe
+
+
+In new terminal
+
+step5: gcc -o cons consumer.c
+step6: sudo ./prod /dev/linepipe
+
