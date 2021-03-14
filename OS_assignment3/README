@@ -1,0 +1,7 @@
+NAME: SANJAY BETTADAPURA GANESHA
+Bnum: B00816568
+
+Virtual memmory to pysical memmory maping in kernel module 
+to execute follow the steps:
+Step1: make all
+Step2: make test

@@ -1,0 +1,9 @@
+SANJAY BETTADAPURA GANESHA
+
+## Operating system with input output redirection pipe execution can be observed 
+## run the make file the code work as a normal shell 
+## 1.input output redirection.
+## 2.pipe exection.
+## 3.kiling the background process using kill pid.
+## 4.ctrl+c will kill fg process and styes in the shell. 
+## all the above fetures can be seen. 
